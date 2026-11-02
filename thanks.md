@@ -25,4 +25,4 @@ MODとして配布されている場合もあるが、そうでないものを�
 | 名前 | 説明 |
 |---|---|
 |[バリン3g氏](https://www.youtube.com/@valine_3g)|近年の工業環境を知るために調べていた時に知った方。彼の動画と彼の作ったコミュニティが無ければここまでやってこれなかっただろう。大変感謝している。|
-|[あんびる鯖](https://discord.com/servers/anbiruqing-minecraft-modhuan-jing-komiyunitei-1234382976641531944)|上記で触れたコミュニティである。おそらく現代で有数の規模を誇るMinecraftMOD関連を語るDiscord鯖で、ここにて様々な知識や翻訳データの拝借、MOD製作に関してのご指導などを頂いた。|
+|[あんびる鯖](https://discord.com/servers/anbiruqing-minecraft-modhuan-jing-komiyunitei-1234382976641531944)|上記で触れたコミュニティである。おそらく現代で有数の規模を誇るMinecraftMOD関連を語るDiscord鯖で、このサーバーのメンバー方に様々な知識や翻訳データの拝借、そしてMOD製作に関してのご指導などを頂いた。|
