@@ -1,2 +1,2 @@
 * [MODリスト](/mod-list.md)
-* [リソパ等](/resources.md)
+* [リソパ・謝辞](/thanks.md)

@@ -1,4 +1,5 @@
-# 実況用 MODリスト
+# MODリスト
+Minecraft 1.20.1 Forge+Sinytra環境
 
 | MOD名 | タグ | 簡易説明 |
 |---|---|---|
